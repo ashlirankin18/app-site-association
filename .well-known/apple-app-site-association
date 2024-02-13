@@ -1,14 +1,15 @@
 {
-    "applinks": {
-        "details": [{
-            "appIDs": ["4Z3H9M2ZL5.com.ashlirankin.Crosspost"],
-            "components": [{
-                "/": "/post*",
-                "comment": "Matches any URL whose path starts with /post/"
-            }, {
-"/": "/*",
+	"applinks": {
+		"details": [{
+			"appIDs": ["4Z3H9M2ZL5.com.ashlirankin.Crosspost"],
+			"components": [{
+				"/": "/post*",
+				"comment": "Matches any URL with path=/post"
+			},
+			{
+				"/": "/*",
 				"comment": "Matches any URL whose path starts with /*"
-            }]
-        }]
-    }
+			}]
+		}]
+	}
 }
