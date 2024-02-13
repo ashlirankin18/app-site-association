@@ -5,6 +5,9 @@
             "components": [{
                 "/": "/callback/*",
                 "comment": "Matches any URL whose path starts with /stock/"
+            }, {
+"/": "/*",
+				"comment": "Matches any URL whose path starts with /*"
             }]
         }]
     }
