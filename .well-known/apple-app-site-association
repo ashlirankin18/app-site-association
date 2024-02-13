@@ -3,8 +3,8 @@
         "details": [{
             "appIDs": ["4Z3H9M2ZL5.com.ashlirankin.Crosspost"],
             "components": [{
-                "/": "/callback*",
-                "comment": "Matches any URL whose path starts with /stock/"
+                "/": "/post*",
+                "comment": "Matches any URL whose path starts with /post/"
             }, {
 "/": "/*",
 				"comment": "Matches any URL whose path starts with /*"
