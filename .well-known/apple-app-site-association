@@ -1,7 +1,7 @@
 {
 	"applinks": {
 		"details": [{
-			"appIDs": ["4Z3H9M2ZL5.com.ashlirankin.Crosspost"],
+			"appIDs": ["ASLRJLYD2S.com.ashlirankin.Crosspost"],
 			"components": [{
 				"/": "/post*",
 				"comment": "Matches any URL with path=/post"
