@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["4Z3H9M2ZL5.com.ashlirankin.Crosspost"],
+            "components": [{
+                "/": "/callback/*",
+                "comment": "Matches any URL whose path starts with /stock/"
+            }]
+        }]
+    },
+    "appclips": {
+        "apps": [
+            "4QMDKC8VLJ.com.swiftlee.StockAnalyzer.Clip"
+        ]
+    }
+}
