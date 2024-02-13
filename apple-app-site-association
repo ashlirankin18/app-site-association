@@ -1,0 +1,15 @@
+{
+	"applinks": {
+		"details": [{
+			"appIDs": ["ASLRJLYD2S.com.ashlirankin.Crosspost"],
+			"components": [{
+				"/": "/post*",
+				"comment": "Matches any URL with path=/post"
+			},
+			{
+				"/": "/*",
+				"comment": "Matches any URL whose path starts with /*"
+			}]
+		}]
+	}
+}
